@@ -1,0 +1,3 @@
+note:
+	linux basic point
+

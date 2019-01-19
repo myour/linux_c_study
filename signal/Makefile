@@ -1,0 +1,20 @@
+
+SRC := $(wildcard *.c)
+OBJ := $(patsubst %.c,%,$(SRC))
+
+
+CC := gcc
+CFLAGS = -Wall -g
+
+all:$(OBJ)
+
+$(OBJ):$(SRC)
+	$(CC) $(CFLAGS) $< -o $@
+
+
+.PHONY:clean all
+clean:
+	-rm -rf $(OBJ)
+
+
+

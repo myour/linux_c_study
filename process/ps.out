@@ -1,0 +1,21 @@
+total 140K
+drwxr-xr-x  2 lo lo 4.0K 2019-01-15 13:32 .
+-rw-r--r--  1 lo lo    0 2019-01-15 13:32 ps.out
+-rwxr-xr-x  1 lo lo 9.8K 2019-01-15 13:32 execlp_dup2
+-rw-r--r--  1 lo lo  404 2019-01-15 13:32 execlp_dup2.c
+-rwxr-xr-x  1 lo lo  10K 2019-01-15 13:20 fork_execvp
+-rw-r--r--  1 lo lo  437 2019-01-15 13:20 fork_execvp.c
+-rwxr-xr-x  1 lo lo  10K 2019-01-15 13:06 fork_execlp
+-rw-r--r--  1 lo lo  471 2019-01-15 13:06 fork_execlp.c
+-rwxr-xr-x  1 lo lo  11K 2019-01-15 11:47 fork_val
+-rw-r--r--  1 lo lo  550 2019-01-15 11:47 fork_val.c
+-rwxr-xr-x  1 lo lo  11K 2019-01-15 11:24 fork_mult
+-rw-r--r--  1 lo lo  561 2019-01-15 11:23 fork_mult.c
+-rwxr-xr-x  1 lo lo  10K 2019-01-14 22:02 fork
+-rwxr-xr-x  1 lo lo  10K 2019-01-14 22:02 envTest
+-rwxr-xr-x  1 lo lo 9.7K 2019-01-14 22:02 environ
+-rw-r--r--  1 lo lo  453 2019-01-14 21:19 fork.c
+-rw-r--r--  1 lo lo  234 2019-01-14 20:08 Makefile
+-rw-r--r--  1 lo lo  548 2019-01-14 19:57 envTest.c
+-rw-r--r--  1 lo lo  326 2019-01-14 17:26 environ.c
+drwxr-xr-x 10 lo lo 4.0K 2019-01-13 17:25 ..
