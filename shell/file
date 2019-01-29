@@ -1,0 +1,12 @@
+total 40K
+drwxr-xr-x  3 lo lo 4.0K 2019-01-28 21:52 ./
+drwxr-xr-x 12 lo lo 4.0K 2019-01-28 16:01 ../
+-rw-r--r--  1 lo lo    0 2019-01-28 21:52 file
+-rw-r--r--  1 lo lo  148 2019-01-28 21:37 out
+-rwxr--r--  1 lo lo  219 2019-01-28 16:39 shell_case.sh*
+-rw-r--r--  1 lo lo  275 2019-01-28 17:14 shell_foreach2.sh
+-rwxr-xr-x  1 lo lo   77 2019-01-28 17:04 shell_foreach.sh*
+-rw-r--r--  1 lo lo  236 2019-01-28 16:18 shell_if.sh
+-rwxr-xr-x  1 lo lo  151 2019-01-28 21:26 shell_pos_var.sh*
+-rw-r--r--  1 lo lo  284 2019-01-28 17:58 shell_while.sh
+drwxr-xr-x  2 lo lo 4.0K 2019-01-28 17:13 testdir/

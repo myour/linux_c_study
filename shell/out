@@ -1,0 +1,2 @@
+    0     1     1     1 ?           -1 Ss       0   0:00 /sbin/init
+ 1846  2142  2141  1846 pts/0     2141 S+    1000   0:00 grep --color=auto init
