@@ -1,0 +1,3 @@
+ProductionA 30
+ProductionB 76      
+ProductionC 55

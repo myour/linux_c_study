@@ -1,9 +1,11 @@
-#! /bin/bash
+#! /bin/bash -x
 
 
 is_dir()
 {
+	set -x
 	ARG_NAME=$1
+	set +x
 	if [ -d "$ARG_NAME" ];then
 		return 0
 	else
